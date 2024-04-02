@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SimpleTelegram</string>
+    <string name="auth">Войти</string>
+    <string name="settings">Настройки</string>
+    <string name="login">Сервер:</string>
+    <string name="password">Ключ авторизации:</string>
+    <string name="typeMessage">Введите сообщение...</string>
+    <string name="update">Обновить</string>
+    <string name="copyright">Проект \"сам себе экосистема\" (С) 2023-2024. Разработано с любовью monobogdan.</string>
+    <string name="chats">Чаты</string>
+    <string name="networkError">Ошибка сети</string>
+    <string name="copy">Копировать</string>
+    <string name="resend">Отправить в...</string>
+    <string name="reply">Ответить</string>
+    <string name="openDialog">Открыть сообщения</string>
+    <string name="block">Заблокировать</string>
+    <string name="addUserWidget">Добавить виджет...</string>
+    <string name="addToContacts">Добавить в контакты телефона</string>
+    <string name="Connect">Подключиться</string>
+    <string name="howTo">Помощь</string>
+    <string name="fillFields">Пожалуйста, заполните все поля!</string>
+    <string name="nodeValidation">Адрес сервера должен быть указан с портом!</string>
+    <string name="connecting">Подключение к серверу</string>
+    <string name="accessKeyMismatch">Неверный ключ авторизации!</string>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name" translatable="false">SimpleTelegram</string>
+    <string name="auth">Authorize</string>
+    <string name="settings">Settings</string>
+    <string name="login">Server:</string>
+    <string name="password">Authorization key:</string>
+    <string name="typeMessage">Type a message...</string>
+    <string name="update">Update</string>
+    <string name="copyright">(C) 2023-2024 SelfEcosystem project by Bogdan Nikolaev aka monobogdan.</string>
+    <string name="chats">Chats</string>
+    <string name="networkError">Network error</string>
+    <string name="copy">Copy</string>
+    <string name="resend">Send to...</string>
+    <string name="reply">Reply</string>
+    <string name="openDialog">Open messages</string>
+    <string name="block">Block user</string>
+    <string name="addUserWidget">Add user widget to desktop</string>
+    <string name="addToContacts">Add to phone contacts...</string>
+    <string name="Connect">Connect to server</string>
+    <string name="howTo">Help</string>
+    <string name="fillFields">Please, fill both fields!</string>
+    <string name="nodeValidation">Node server must be with port (usually 13377)</string>
+    <string name="connecting">Establishing connection</string>
+    <string name="accessKeyMismatch">Check your access key</string>
+</resources>
